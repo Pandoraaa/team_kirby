@@ -1,8 +1,13 @@
+
 p {
 	font-size: 24px;
 }
 
 .container {
 	border : 1px solid white;
+}
+
+#konbini {
+	border : 1px dashed white;
 }
 
